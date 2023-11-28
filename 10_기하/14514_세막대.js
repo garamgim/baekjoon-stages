@@ -1,5 +1,5 @@
 const fs = require("fs");
-let [a, b, c] = fs.readFileSync("/dev/stdin").toString().split(" ").map(Number).sort((a, b) => a - b);;
+let [a, b, c] = fs.readFileSync("/dev/stdin").toString().split(" ").map(Number).sort((a, b) => a - b);
 
 if (a === b && b === c) {
     console.log(a * 3);
