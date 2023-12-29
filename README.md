@@ -3,5 +3,5 @@
 <br>
 Baekjoon Online Judge Algorithm Solutions
 <br>
-8~12: JavaScript
-13~: Python
+8\~12: JavaScript
+13\~: Python
